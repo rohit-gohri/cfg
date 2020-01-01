@@ -1,5 +1,12 @@
 # cfg
 
+<a href="https://www.npmjs.com/package/@smpx/cfg"><img src="https://img.shields.io/npm/v/@smpx/cfg.svg" alt="Version"></a>
+<a href="https://www.npmjs.com/package/@smpx/cfg"><img src="https://img.shields.io/npm/dm/@smpx/cfg.svg" alt="Downloads"></a>
+<a href="https://www.npmjs.com/package/@smpx/cfg"><img src="https://img.shields.io/npm/l/@smpx/cfg.svg" alt="License"></a>
+<a href="https://david-dm.org/smartprix/cfg"><img src="https://david-dm.org/smartprix/cfg/status.svg" alt="Dependencies"></a>
+<a href="https://david-dm.org/smartprix/cfg?type=dev"><img src="https://david-dm.org/smartprix/cfg/dev-status.svg" alt="Dev Dependencies"></a>
+
+
 Configuration management for node.js.
 
 Example config:
